@@ -1,17 +1,17 @@
-###FishingHacks
+### FishingHacks
 ---
-#Languages
+# Languages
 JavaScript
 Python
 TypeScript
 
-#Stack
+# Stack
 NodeJS
 express
 enmap
 EJS
 ---
-#Other Technologies i use
+# Other Technologies i use
 Flask
 electron
 scratch
