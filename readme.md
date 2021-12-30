@@ -1,20 +1,22 @@
 ### FishingHacks
 ---
 # Languages
-JavaScript
-Python
-TypeScript
+- JavaScript
+- Python
+- TypeScript
 
 # Stack
-NodeJS
-express
-enmap
-EJS
+- NodeJS
+- express
+- enmap
+- EJS
+
 ---
 # Other Technologies i use
-Flask
-electron
-scratch
+- Flask
+- electron
+- scratch
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FishingHacks&show_icons=true&theme=dracula)
 
