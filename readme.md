@@ -6,10 +6,8 @@
 - TypeScript
 
 # Stack
-- NodeJS
-- express
+- featherframe
 - enmap
-- EJS
 
 # Other Technologies i use
 - Flask
@@ -21,4 +19,4 @@
 
 Working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FishingHacks&repo=express-reauth)](https://github.com/FishingHacks/express-reauth&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FishingHacks&repo=featherframe)](https://github.com/FishingHacks/featherframe&theme=dracula)
