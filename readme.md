@@ -19,4 +19,4 @@
 
 Working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FishingHacks&repo=featherframe)](https://github.com/FishingHacks/featherframe&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FishingHacks&repo=featherframe)](https://github.com/FishingHacks/featherframe)
