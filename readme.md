@@ -38,6 +38,41 @@
 - [Lightbulb](https://en.wikipedia.org/wiki/Electric_light)
 - [Light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode)
 - [Smartphone](https://en.wikipedia.org/wiki/Smartphone)
+- [Central Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
+- [Graphics Processing Unit](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+- [Solid State Drive](https://en.wikipedia.org/wiki/Solid-state_drive)
+- [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
+- [Power Supply Unit](https://en.wikipedia.org/wiki/Power_supply_unit_(computer))
+- [Motherboard](https://en.wikipedia.org/wiki/Motherboard)
+- [Universal Serial BUS](https://en.wikipedia.org/wiki/USB)
+- [High-Definition Multimedia Interface](https://en.wikipedia.org/wiki/HDMI)
+- [Wireles Local Area Network](https://en.wikipedia.org/wiki/Wireless_LAN)
+- [Local Area Network](https://en.wikipedia.org/wiki/Wireless_LAN)
+- [Router](https://en.wikipedia.org/wiki/Router_(computing))
+- [Web Browser](https://en.wikipedia.org/wiki/Web_browser)
+- [Stackoverflow](https://stackoverflow.com/)
+- [Stackexchange](https://stackexchange.com/)
+- [Internet](https://en.wikipedia.org/wiki/Internet)
+- [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+- [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+- [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell)
+- [Transport Layer Security/Secure Sockets Layer](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+- [End to End Encryption](https://en.wikipedia.org/wiki/End-to-end_encryption)
+- [Secure Hash Algorithms, mostly SHA-256](https://en.wikipedia.org/wiki/Secure_Hash_Algorithms)
+
+
+### Influencer, I like
+Зозин/Зодин (Tsoding) > [YouTube Streamarchive](https://www.youtube.com/c/TsodingDaily) | [YouTube](https://www.youtube.com/c/Tsoding) | [Twitch](https://www.twitch.tv/tsoding)
+
+Fireship > [YouTube](https://www.youtube.com/c/Fireship/) | [Website](https://fireship.io/)
+
+RedCrafter07 > [YouTube](https://www.youtube.com/channel/UCZjkJX6z-fKoxt-yQ3MuHPw) | [Twitch](https://twitch.tv/redcrafter07_live) | [YouTube Stream Archive](https://www.youtube.com/channel/UCUbkHNYfRJuWHKlrTcsKksQ) | [YouTube Development](https://www.youtube.com/channel/UC1xOyRo6p3gsAo4ja0y76-A) | [Website](https://redcrafter07.de/) | [Skills](https://a.r07.dev/)
+
+Simplicissimus > [YouTube](https://www.youtube.com/c/Simplicissimus2) | [YouTube 2nd Channel](https://www.youtube.com/c/2BoredGuysOfficial/) | [Merchandise](https://cultureculture.com/)
+
+Mental Outlaw > [YouTube](https://www.youtube.com/c/MentalOutlaw) | [Odysee](https://odysee.com/@AlphaNerd:8)
+
+Ultralativ > [YouTube](https://www.youtube.com/c/Ultralativ) | [Twitch](https://www.twitch.tv/fynnalist)
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FishingHacks&show_icons=true&theme=dracula)
