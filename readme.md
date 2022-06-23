@@ -64,15 +64,15 @@
 ### Influencer, I like
 Зозин/Зодин (Tsoding) > [YouTube Streamarchive](https://www.youtube.com/c/TsodingDaily) | [YouTube](https://www.youtube.com/c/Tsoding) | [Twitch](https://www.twitch.tv/tsoding)
 
-Fireship > [YouTube](https://www.youtube.com/c/Fireship/) | [Website](https://fireship.io/)
-
-RedCrafter07 > [YouTube](https://www.youtube.com/channel/UCZjkJX6z-fKoxt-yQ3MuHPw) | [Twitch](https://twitch.tv/redcrafter07_live) | [YouTube Stream Archive](https://www.youtube.com/channel/UCUbkHNYfRJuWHKlrTcsKksQ) | [YouTube Development](https://www.youtube.com/channel/UC1xOyRo6p3gsAo4ja0y76-A) | [Website](https://redcrafter07.de/) | [Skills](https://a.r07.dev/)
+Mental Outlaw > [YouTube](https://www.youtube.com/c/MentalOutlaw) | [Odysee](https://odysee.com/@AlphaNerd:8)
 
 Simplicissimus > [YouTube](https://www.youtube.com/c/Simplicissimus2) | [YouTube 2nd Channel](https://www.youtube.com/c/2BoredGuysOfficial/) | [Merchandise](https://cultureculture.com/)
 
-Mental Outlaw > [YouTube](https://www.youtube.com/c/MentalOutlaw) | [Odysee](https://odysee.com/@AlphaNerd:8)
+RedCrafter07 > [YouTube](https://www.youtube.com/channel/UCZjkJX6z-fKoxt-yQ3MuHPw) | [Twitch](https://twitch.tv/redcrafter07_live) | [YouTube Stream Archive](https://www.youtube.com/channel/UCUbkHNYfRJuWHKlrTcsKksQ) | [YouTube Development](https://www.youtube.com/channel/UC1xOyRo6p3gsAo4ja0y76-A) | [Website](https://redcrafter07.de/) | [Skills](https://a.r07.dev/)
 
 Ultralativ > [YouTube](https://www.youtube.com/c/Ultralativ) | [Twitch](https://www.twitch.tv/fynnalist)
+
+Fireship > [YouTube](https://www.youtube.com/c/Fireship/) | [Website](https://fireship.io/)
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FishingHacks&show_icons=true&theme=dracula)
