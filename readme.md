@@ -35,7 +35,7 @@
 - [Mouse](https://en.wikipedia.org/wiki/Computer_mouse)
 - [Speaker](https://en.wikipedia.org/wiki/Computer_speakers)
 - [Cables](https://en.wikipedia.org/wiki/Electrical_cable)
-- [Lightbuldb](https://en.wikipedia.org/wiki/Electric_light)
+- [Lightbulb](https://en.wikipedia.org/wiki/Electric_light)
 - [Light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode)
 - [Smartphone](https://en.wikipedia.org/wiki/Smartphone)
 
