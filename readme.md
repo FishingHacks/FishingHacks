@@ -2,6 +2,7 @@
 <p align="center">
   <a href="#"><img alt="Discord-social Fishi#8224" src="./discord-social.svg" /></a>
   <a href="https://github.com/FishingHacks"><img alt="Followers" src="https://shields.io/github/followers/FishingHacks?label=Follow&style=for-the-badge&color=000" /></a>
+  <a href="https://eytron.ga"><img alt="Administrator @ Eytron" src="https://img.shields.io/badge/Developer at-Eytron-blueviolet?style=for-the-badge&color=fe7d37" /></a>
 </p>
 
 ### Languages
