@@ -2,7 +2,7 @@
 <p align="center">
   <a href="#"><img alt="Discord-social Fishi#8224" src="./discord-social.svg" /></a>
   <a href="https://github.com/FishingHacks"><img alt="Followers" src="https://shields.io/github/followers/FishingHacks?label=Follow&style=for-the-badge&color=000" /></a>
-  <a href="https://r07.dev/l/zonar"><img alt="Developer @ Zonar" src="https://img.shields.io/badge/Developer at-Zonar-blueviolet?style=for-the-badge&color=fe7d37" /></a>
+  <a href="https://r07.dev/l/zonar"><img alt="Developer @ Zonar" src="https://img.shields.io/badge/Developer at-Zonar-blueviolet?style=for-the-badge&color=ffc700" /></a>
 </p>
 
 ### Languages
