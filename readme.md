@@ -2,4 +2,4 @@
 
 Working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FishingHacks&repo=programming-lang)](https://github.com/FishingHacks/placeholder-name-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FishingHacks&repo=mira)](https://github.com/FishingHacks/mira)
